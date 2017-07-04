@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Cambios de QA
+# Cambios para Dev
 import Levenshtein
 import fuzzy
 
