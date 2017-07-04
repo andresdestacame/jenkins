@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# 123ABCCDEqq12345678
+# Hola mundo
 import Levenshtein
 import fuzzy
 
