@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Comentario Andres Gabriel Martinez Barreto
+# Comentario Andres Gabriel Martinez Barreto.
 import Levenshtein
 import fuzzy
 
