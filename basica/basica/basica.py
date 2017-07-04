@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# 123ABCCDEqq
+# 123ABCCDEqq12345678
 import Levenshtein
 import fuzzy
 
