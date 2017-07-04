@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Cambios para Dev
+# Cambios desde el server de Jenkins
 import Levenshtein
 import fuzzy
 
