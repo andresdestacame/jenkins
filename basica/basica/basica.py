@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Hola mundo - X6
+# Hola mundo - X6 www.
 import Levenshtein
 import fuzzy
 
