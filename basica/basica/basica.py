@@ -1,5 +1,9 @@
 # -*- coding: utf-8 -*-
-# Cambio x16
+
+##################
+## Archivo - QA ##
+##################
+
 import Levenshtein
 import fuzzy
 
