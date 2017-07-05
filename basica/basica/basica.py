@@ -1,5 +1,9 @@
 # -*- coding: utf-8 -*-
-# Cambios de QA
+
+######################
+## Archivo - Master ##
+######################
+
 import Levenshtein
 import fuzzy
 
