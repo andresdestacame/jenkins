@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Cambio en comentario para ser reflejado en PR
+# Cambio x11
 import Levenshtein
 import fuzzy
 
