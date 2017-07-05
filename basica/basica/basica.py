@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 
-###################
-## Archivo - Dev ##
-###################
+##################
+## Archivo - QA ##
+##################
 
 import Levenshtein
 import fuzzy
