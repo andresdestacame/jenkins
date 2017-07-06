@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 # Modificado desde colaborador Destacame
-# Me falto esta linea
+# Me falto esta linea X2
 
 ###################
 ## Archivo - Dev ##
