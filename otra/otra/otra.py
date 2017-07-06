@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 #########################
-## Archivo - QA - Otro ##
+## Archivo de QA a DEV ##
 #########################
 
 import Levenshtein
