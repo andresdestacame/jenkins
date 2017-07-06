@@ -1,5 +1,9 @@
 # -*- coding: utf-8 -*-
-# Comentario para otra
+
+#########################
+## Archivo - QA - Otro ##
+#########################
+
 import Levenshtein
 import fuzzy
 
