@@ -1,8 +1,10 @@
 # -*- coding: utf-8 -*-
 
-##################
-## Archivo - QA ##
-##################
+# Modificado desde colaborador Destacame
+
+###################
+## Archivo - Dev ##
+###################
 
 import Levenshtein
 import fuzzy
